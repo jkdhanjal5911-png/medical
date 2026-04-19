@@ -6,7 +6,7 @@ include('src/config.php');
 <html lang="en">
 
 	<head>
-		<title>SPA Pathcare : Edit Profile</title>
+		<title>Healthcare : Edit Profile</title>
 		<?php include('src/head.php') ?>
 	</head>
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Clinic System
 
 ![GitHub](https://img.shields.io/github/license/Piyushhbhutoria/OnlineClinicSystem)
@@ -46,3 +47,6 @@ Change credentials in config.php.
 
 Open PHPmyadmin create a database named project.  
 Import the project.sql file in database folder.
+=======
+# medical
+>>>>>>> 7d16d3c5c079a33950801f7f3c2542025368d84a

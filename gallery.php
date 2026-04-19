@@ -3,7 +3,7 @@
 <html lang="en">
 
 	<head>
-		<title>SpA Pathcare : Gallery</title>
+		<title>Healthcare : Gallery</title>
 		<?php include('src/head.php') ?>
 	</head>
 

@@ -7,7 +7,7 @@ include('src/session_check.php');
 <html lang="en">
 
 	<head>
-		<title>SPA Pathcare : Upload Report</title>
+		<title>Healthcare : Upload Report</title>
 		<?php include('src/head.php') ?>
 	</head>
 

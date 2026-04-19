@@ -6,7 +6,7 @@ include('src/functions.php');
 <html lang="en">
 
 	<head>
-		<title>SPA Pathcare : Register</title>
+		<title>Healthcare : Register</title>
 		<?php include('src/head.php') ?>
 	</head>
 

@@ -3,7 +3,7 @@
 <html lang="en">
 
 	<head>
-		<title>SPA Pathcare : About Us</title>
+		<title>Healthcare : About Us</title>
 		<?php include('src/head.php') ?>
 	</head>
 
